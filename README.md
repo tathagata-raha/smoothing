@@ -1,4 +1,4 @@
-# Smmothing
+# Smoothing
 
 Here we created a language model that does two kinds of smoothing and then finds the probability of a given sentence
 
